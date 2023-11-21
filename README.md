@@ -3,7 +3,7 @@
 http://localhost:8080/gui
 ```
 
-- qraphql 예시
+- graphql 예시
 ```
 {
   getTeamByCountryName(name:"한국") {
