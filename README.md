@@ -20,3 +20,10 @@ http://localhost:8080/gui
   }
 }
 ```
+
+- 참고자료
+
+https://docs.spring.io/spring-graphql/reference/index.html
+https://danawalab.github.io/spring/2022/06/06/Spring-for-GraphQL.html
+https://ttubeoki.tistory.com/23
+https://jh2021.tistory.com/12
